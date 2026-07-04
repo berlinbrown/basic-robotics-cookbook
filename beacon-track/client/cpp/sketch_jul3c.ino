@@ -13,8 +13,8 @@
 
 BLEScan* pBLEScan;
 
-const char* ssid = "PrimeEng";
-const char* password = "RamzaRunner1980";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 // replace with your Mac IP
 const char* serverUrl = "http://10.0.0.101:8000";
