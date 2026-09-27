@@ -1,0 +1,29 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local model weights and generated results
+models/
+outputs/
+
+# Images and videos (case insensitive)
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[mM][oO][vV]
+*.[mM][pP]4
+
+# Local environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db

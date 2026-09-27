@@ -1,0 +1,44 @@
+{
+  "image": "/mnt/c/Users/berli/projects/git-main5/github/basic-robotics-cookbook/scatty-robot/images/IMG_0597.jpeg",
+  "model": "/mnt/c/Users/berli/projects/git-main5/github/basic-robotics-cookbook/scatty-robot/models/Qwen3-VL-4B-Instruct",
+  "original_size": [
+    4032,
+    3024
+  ],
+  "input_size": [
+    1280,
+    960
+  ],
+  "coordinate_system": "xyxy, 0-1000, relative to full image",
+  "generation_seconds": 92.51618357999996,
+  "objects": [
+    {
+      "label": "main game character",
+      "box": [
+        485,
+        438,
+        547,
+        538
+      ]
+    },
+    {
+      "label": "hanging lantern",
+      "box": [
+        870,
+        128,
+        899,
+        173
+      ]
+    },
+    {
+      "label": "stairs",
+      "box": [
+        178,
+        477,
+        399,
+        697
+      ]
+    }
+  ],
+  "rejected": []
+}

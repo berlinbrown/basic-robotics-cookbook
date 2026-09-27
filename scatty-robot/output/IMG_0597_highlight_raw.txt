@@ -1,0 +1,16 @@
+{
+  "objects": [
+    {
+      "label": "main game character",
+      "box": [485, 438, 547, 538]
+    },
+    {
+      "label": "hanging lantern",
+      "box": [870, 128, 899, 173]
+    },
+    {
+      "label": "stairs",
+      "box": [178, 477, 399, 697]
+    }
+  ]
+}
